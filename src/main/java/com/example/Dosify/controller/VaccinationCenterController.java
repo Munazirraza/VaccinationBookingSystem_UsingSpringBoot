@@ -23,15 +23,5 @@ public class VaccinationCenterController {
         return new ResponseEntity(centerResponseDto, HttpStatus.CREATED);
     }
 
-    // give the list of all doctors at a particular center(centerId)
-
-    // give the list of all male doctors at a particular center(centerId)
-
-    // give the list of all females doctors at a particular center(centerId)
-
-    // give the list of all male doctors above age 40 at a particular center(centerId)
-
-    // give all centers of a particular centerType
-
 
 }
